@@ -31,6 +31,7 @@
                     android:id="@+id/house_number_edit_text"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
+                    android:inputType="number"
                     android:hint="House Number"/>
 
             </android.support.design.widget.TextInputLayout>
